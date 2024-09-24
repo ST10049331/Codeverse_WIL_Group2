@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("9aac7356-e029-48f1-9fc7-ca906e210b5a")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebNGO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e8859f0844c36c1d5db86216bacda1635621e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebNGO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebNGO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
