@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebNGO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e8859f0844c36c1d5db86216bacda1635621e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14d256c66ea79fc15e22d472d1e963a83990675f")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebNGO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebNGO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
 using WebNGO.Models;
+using System.Diagnostics;
 
-namespace WebNGO.Controllers
+namespace SA_Outreach_Website.Controllers
 {
     public class HomeController : Controller
     {
@@ -21,6 +21,11 @@ namespace WebNGO.Controllers
         public IActionResult Privacy()
         {
             return View();
+        }
+
+        public IActionResult AboutUs()
+        {
+            return View(); // This returns the 'AboutUs.cshtml' view from the Views/Home folder
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
