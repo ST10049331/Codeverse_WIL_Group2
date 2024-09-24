@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImCZB3TOKFCunLcZm6ujZZu+Q7FuDmg1WMREnwnpvdFSI1xzVOCpRRXiQ84vvu4PguNFn54TZvdq/8XbtJxwkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\source\\repos\\WebNGO\\WebNGO\\WebNGO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
